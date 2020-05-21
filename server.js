@@ -15,8 +15,8 @@ const knownVersions = ['1.0', '1.1'];
  */
 function setOptions(query) {
 	let querystring = {
-		version: '1.0',
-		access_token: 'Scwg9PRRZ19iVwD', // eslint-disable-line
+		version: '1.1',
+		access_token: 'WveH9VkPLrXvuNm', // eslint-disable-line
 		device_type: 'com.crunchyroll.crunchyroid', // eslint-disable-line
 		device_id: generateId() // eslint-disable-line
 	};
